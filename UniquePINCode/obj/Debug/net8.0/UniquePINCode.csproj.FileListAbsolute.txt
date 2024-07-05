@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\UniquePINCode\UniquePINCode\bin\Debug\net8.0\UniquePINCode.exe
+C:\Users\ninag\RiderProjects\UniquePINCode\UniquePINCode\bin\Debug\net8.0\UniquePINCode.deps.json
+C:\Users\ninag\RiderProjects\UniquePINCode\UniquePINCode\bin\Debug\net8.0\UniquePINCode.runtimeconfig.json
+C:\Users\ninag\RiderProjects\UniquePINCode\UniquePINCode\bin\Debug\net8.0\UniquePINCode.dll
+C:\Users\ninag\RiderProjects\UniquePINCode\UniquePINCode\bin\Debug\net8.0\UniquePINCode.pdb
+C:\Users\ninag\RiderProjects\UniquePINCode\UniquePINCode\obj\Debug\net8.0\UniquePINCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\UniquePINCode\UniquePINCode\obj\Debug\net8.0\UniquePINCode.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\UniquePINCode\UniquePINCode\obj\Debug\net8.0\UniquePINCode.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\UniquePINCode\UniquePINCode\obj\Debug\net8.0\UniquePINCode.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\UniquePINCode\UniquePINCode\obj\Debug\net8.0\UniquePINCode.dll
+C:\Users\ninag\RiderProjects\UniquePINCode\UniquePINCode\obj\Debug\net8.0\refint\UniquePINCode.dll
+C:\Users\ninag\RiderProjects\UniquePINCode\UniquePINCode\obj\Debug\net8.0\UniquePINCode.pdb
+C:\Users\ninag\RiderProjects\UniquePINCode\UniquePINCode\obj\Debug\net8.0\UniquePINCode.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\UniquePINCode\UniquePINCode\obj\Debug\net8.0\ref\UniquePINCode.dll
